@@ -1,0 +1,7 @@
+[package]
+name = "g13-rs"
+version = "0.1.0"
+authors = ["Mats A. <datamats@datamats.com>"]
+
+[dependencies]
+libusb = "0.3.0"

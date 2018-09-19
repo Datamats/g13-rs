@@ -1,0 +1,8 @@
+[package]
+name = "g13-examples"
+version = "0.1.0"
+authors = ["Mats A. <datamats@datamats.com>"]
+publish = false
+
+[dev-dependencies]
+g13-rs = { path = "../" }
