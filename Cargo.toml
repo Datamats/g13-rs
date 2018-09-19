@@ -2,6 +2,8 @@
 name = "g13-rs"
 version = "0.1.0"
 authors = ["Mats A. <datamats@datamats.com>"]
+description = "Library for controlling the Logitech G13 using libusb"
+license = "MIT"
 
 [dependencies]
 libusb = "0.3.0"
